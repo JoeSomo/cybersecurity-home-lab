@@ -8,8 +8,7 @@ Tools Used:
 - Kali Linux
 - Wireshark
 - tcpdump
-- Zeek (optional)
-- Suricata (optional)
+- Splunk (optional)
 
 Skills Demonstrated:
 - PCAP analysis
